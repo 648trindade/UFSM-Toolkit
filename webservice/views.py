@@ -24,6 +24,14 @@ def index(request):
 		dic[res['processo']] = res['valor'] 
 	return HttpResponse(json.dumps(dic, indent=4, sort_keys=True))
 
+def sequencial(request):
+	fila = Queue()
+	dic = {}
+	cardapio(None, fila)
+	res = fila.get()
+	dic[res['processo']] = res['valor'] 
+	return HttpResponse(json.dumps(dic, indent=4, sort_keys=True))
+
 def cardapio(request, fila=None):
 	if request is not None and request.method == 'GET':
 		rus = request.GET.get('ru')

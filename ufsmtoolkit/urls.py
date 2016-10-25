@@ -21,4 +21,5 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', webservice.views.index),
     url(r'^cardapio$', webservice.views.cardapio),
+    url(r'^seq$', webservice.views.sequencial)
 ]
