@@ -4,15 +4,27 @@ from bs4 import BeautifulSoup as bs
 import requests
 from classes import CardapioDia, Refeicao, RefeicaoItem
 import json
+from multiprocessing import Process, Queue
 
 # Create your views here.
 
 def index(request):
+	fila = Queue()
+	processos = [
+		Process(target=cardapio, args=(None,fila,)),
+	]
+	for processo in processos:
+		processo.start()
+	for processo in processos:
+		processo.join()
+	
 	dic = {}
-	dic['cardapio'] = cardapio(None) 
+	while not fila.empty():
+		res = fila.get()
+		dic[res['processo']] = res['valor'] 
 	return HttpResponse(json.dumps(dic, indent=4, sort_keys=True))
 
-def cardapio(request):
+def cardapio(request, fila=None):
 	if request is not None and request.method == 'GET':
 		rus = request.GET.get('ru')
 		if rus is None:
@@ -58,5 +70,5 @@ def cardapio(request):
 	
 	if request is not None:
 		return HttpResponse(json.dumps(dic, indent=4, sort_keys=True))
-	else:
-		return dic
+	elif fila is not None:
+		fila.put({'processo':'cardapio', 'valor':dic})
