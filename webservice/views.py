@@ -302,7 +302,7 @@ def sobre(request):
     """
     with open('static/markdown/sobre.md') as md:
         html = markdown.markdown(md.read(), output_format="html5", encoding="utf-8")
-    return HttpResponse(html)
+    return render(request, 'index.html', context={'sobre':html})
 
 def notas(request, session=requests.Session(), fila=None):
     """
@@ -440,8 +440,3 @@ def matriz_curricular(request, session=requests.Session(), fila=None):
         return HttpResponse(json.dumps(dic, indent=4, sort_keys=True))
     elif fila is not None:
         fila.put({'processo':'matriz_curricular', 'valor':dic})
-
-def template(request):
-    with open('static/markdown/sobre.md') as md:
-        html = markdown.markdown(md.read(), output_format="html5", encoding="utf-8")
-    return render(request, 'index.html', context={'sobre':html})

@@ -32,6 +32,5 @@ urlpatterns = [
     url(r'^agenda_refeicoes$', webservice.views.agenda_refeicoes),
     url(r'^notas$', webservice.views.notas),
     url(r'^horario$', webservice.views.horario),
-    url(r'^matriz_curricular$', webservice.views.matriz_curricular),
-    url(r'^template$', webservice.views.template)
+    url(r'^matriz_curricular$', webservice.views.matriz_curricular)
 ]
