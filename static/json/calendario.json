@@ -1,0 +1,811 @@
+{
+    "OUTUBRO": [
+        {
+            "alvo": "SAI - Coordenações de Cursos de Graduação",
+            "descricao": "SELEÇÃO DE CANDIDATOS: Publicação do edital de seleção de candidatos estrangeiros, oriundos de universidades conveniadas com a UFSM e de convênios multilaterais pela SAI, com seleção realizada pelos cursos de graduação para ingresso no 1º semestre letivo de 2018.",
+            "data": "02/10/2017 segunda-feira"
+        },
+        {
+            "alvo": "Candidatos à seleção de pósgraduação",
+            "descricao": "SELEÇÃO PÓS-GRADUAÇÃO: Período para inscrições via web no processo seletivo para ingresso em cursos de pós-graduação, com início de atividades acadêmicas no 1º semestre letivo de 2018.",
+            "data": "02/10/2017 a 23/10/2017 segunda a segunda-feira"
+        },
+        {
+            "alvo": "Prováveis formandos da graduação, alunos de pósgraduação e servidores da UFSM",
+            "descricao": "TESTE DE SUFICIÊNCIA: Dia da aplicação da prova do Teste de Suficiência em Língua Estrangeira - TESLE, para o 2º semestre letivo de 2017.",
+            "data": "07/10/2017 sábado"
+        },
+        {
+            "alvo": "Professores e alunos da graduação e pós-graduação",
+            "descricao": "AULAS: Data referência considerada como metade do 2º semestre letivo de 2017 para fins de avaliação docente.",
+            "data": "09/10/2017 segunda-feira"
+        },
+        {
+            "data": "09/10/2017 segunda-feira",
+            "alvo": "Departamentos didáticos",
+            "descricao": "ENCARGOS DIDÁTICOS: Data limite para atualização dos encargos didáticos referentes ao 2º semestre letivo de 2017. "
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Nossa Senhora Aparecida, feriado nacional.",
+            "data": "12/10/2017 quinta-feira"
+        },
+        {
+            "alvo": "Comunidade acadêmica de todos os campi - Dia não letivo e suspensão de atividades acadêmicas",
+            "descricao": "DIA NÃO LETIVO E SUSPENSÃO DE ATIVIDADES ADMINISTRATIVAS: Dia não letivo e suspensão de atividades administrativas em todos os campi em razão do feriado Nossa Senhora Aparecida",
+            "data": "13/10/2017 e 14/10/2017 sexta-feira e sábado"
+        },
+        {
+            "alvo": "Coordenações de cursos de graduação e pós-graduação, modalidade presencial",
+            "descricao": "OFERTA DE DISCIPLINA - COORDENAÇÕES: Período para as coordenações de curso de graduação e pós-graduação, modalidade presencial, solicitarem oferta de disciplina regular e por Resolução do Regime Especial de Avaliação aos respectivos departamentos didáticos, através do SIE, para o 1º semestre letivo de 2018.",
+            "data": "18/10/2017 a 25/10/2017 quarta a quarta-feira"
+        },
+        {
+            "alvo": "Coordenações de cursos de graduação - modalidades presencial e a distância.",
+            "descricao": "FORMATURAS: Para o 2º semestre letivo de 2017, trata-se de data limite para as coordenações de curso de graduação enviarem ao DERCA: 1) formulários com a data da formatura solene e gabinete; 2) formulário com a lista dos nomes de todos os prováveis formandos do semestre; e 3) cópias dos documentos pessoais dos prováveis formandos. Os formulários específicos, que dispensam o envio de memorando, estão disponíveis na página do DERCA.",
+            "data": "20/10/2017 sexta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação. Projetos de Ensino, Pesquisa e Extensão",
+            "descricao": "JAI: Jornada Acadêmica Integrada - JAI.",
+            "data": "23/10/2017 a 27/10/2017 segunda a sexta-feira"
+        },
+        {
+            "data": "26/10/2017 quinta-feira",
+            "alvo": "PROGRAD/SAI",
+            "descricao": "EDITAL PROMISAES: Data prevista para abertura do edital PROMISAES para concessão de bolsas para alunos estrangeiros, referente ao 1º semestre letivo de 2018."
+        },
+        {
+            "alvo": "Departamentos didáticos dos cursos de graduação e pósgraduação - modalidade presencial",
+            "descricao": "OFERTA DE DISCIPLINA - DEPARTAMENTOS: Período para os departamentos didáticos dos cursos de graduação e pós-graduação, modalidade presencial, procederem à conferência, retificação, inclusão de docente e confirmação das solicitações de oferta de disciplina para o 1º semestre letivo de 2018. ",
+            "data": "26/10/2017 a 01/11/2017 quinta a quarta-feira"
+        },
+        {
+            "alvo": "Comunidade acadêmica de todos os campi - Dia não letivo e suspensão de atividades acadêmicas",
+            "descricao": "Dia do Servidor Público.",
+            "data": "28/10/2017 sábado"
+        }
+    ],
+    "DEZEMBRO": [
+        {
+            "data": "04/12/2017 segunda-feira",
+            "alvo": "Comunidade Acadêmica",
+            "descricao":"ADAPTAÇÃO ACADÊMICA: Dia da semana considerado como SÁBADO para fins acadêmicos."
+        },
+        {
+            "data": "05/12/2017 terça-feira",
+            "alvo": "Comunidade Acadêmica",
+            "descricao":"ADAPTAÇÃO ACADÊMICA: Dia da semana considerado como SEXTA-FEIRA para fins acadêmicos."
+        },
+        {
+            "alvo": "Coordenações de curso de graduação",
+            "descricao": "REFORMULAÇÃO CURRICULAR e PROPOSTA DE NOVOS CURSOS: Data limite para aprovação/alteração (CEPE/CONSU) de projetos de reformulação curricular e de cursos novos para que possam ser ofertadas vagas no SiSU 2018/02.",
+            "data": "05/12/2017 sexta-feira"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica dos campi de Santa Maria e Cachoeira do Sul.",
+            "descricao": "FERIADO: Nossa Senhora da Conceição, feriado em Santa Maria e Cachoeira do Sul.",
+            "data": "08/12/2017 sexta-feira"
+        },
+        {
+            "data": "11/12/2017 segunda-feira",
+            "alvo": "Comunidade Acadêmica",
+            "descricao":"ADAPTAÇÃO ACADÊMICA: Dia da semana considerado como QUINTA-FEIRA para fins acadêmicos."
+        },
+        {
+            "data": "12/12/2017 terça-feira",
+            "alvo": "Comunidade Acadêmica",
+            "descricao":"ADAPTAÇÃO ACADÊMICA: Dia da semana considerado como SEXTA-FEIRA para fins acadêmicos."
+        },
+        {
+            "alvo": "Alunos e professores da graduação",
+            "descricao": "ESTÁGIO CURRICULAR: Data limite para as defesas de relatório de estágio curricular, referentes ao 2º semestre letivo de 2017.",
+            "data": "16/12/2017 sábado"
+        },
+        {
+            "alvo": "Professores e alunos da graduação e pós-graduação",
+            "descricao": "AVALIAÇÕES FINAIS: Período para avaliações finais referentes ao 2º semestre letivo de 2017 - Período de exames.",
+            "data": "18/12/2017 a 23/12/2017 segunda a sábado"
+        },
+        {
+            "alvo": "Professores da graduação e pós-graduação",
+            "descricao": "ENCERRAMENTO DOS DIÁRIOS CLASSE ONLINE: Período para a consolidação dos diários de classe online referentes ao 2º semestre letivo de 2017. Encerramento das turmas no Portal do Professor. ",
+            "data": "11/12/2017 a 27/12/2017 segunda a sexta-feira"
+        },
+        {
+            "data": "16/12/2017 quinta-feira",
+            "alvo": "Comunidade acadêmica de todos os Campi",
+            "descricao":"AULAS - FIM: Término das aulas e prazo final para segunda avaliação parcial referente ao 2º semestre letivo de 2017 para todos os campi."
+        },
+        {
+            "data": "22/12/2017 a 26/12/2017 sexta a terça-feira",
+            "alvo": "Alunos do Curso de Medicina",
+            "descricao":"MATRÍCULA - INTERNATO: Período para os alunos do Curso de Medicina solicitarem via Portal do Aluno matrícula em Internato Curricular obrigatório, referente ao 1º semestre letivo de 2018."
+        },
+        {
+            "alvo": "DERCA - Alunos do Curso de Medicina",
+            "descricao": "PROCESSAMENTO MATRÍCULA INTERNATO: Data prevista para o 2º processamento de matrícula em Internato Curricular obrigatório do Curso de Medicina, referente ao 1º semestre letivo de 2018.",
+            "data": "29/12/2017 sexta-feira"
+        },
+        {
+            "alvo": " 23/12/2017 a 09/03/2018 sábado a sábado Alunos da graduação - modalidades presencial e a distância",
+            "descricao": "FORMATURAS: Período de formaturas referente ao 2º semestre letivo de 2017 para os alunos formandos da graduação, modalidades presencial e a distância.",
+            "data": "29/12/2017 sexta-feira Departamentos didáticos PUBLICAÇÃO DAS NOTAS: Data limite para a publicação do aproveitamento escolar pelos departamentos didáticos, referente ao 2º semestre letivo de 2017."
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Natal, feriado nacional.",
+            "data": "25/12/2017 segunda-feira"
+        }
+    ],
+    "JULHO": [
+        {
+            "alvo": "Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Data limite para a publicação pela PRPGP da lista com os nomes dos candidatos classificados nos cursos de pós-graduação da UFSM, para ingresso no 2º semestre letivo de 2017.",
+            "data": "06/07/2017 quinta-feira"
+        },
+        {
+            "alvo": "Professores de graduação e pós-graduação",
+            "descricao": "ENCERRAMENTO DIÁRIOS DE CLASSE ONLINE: Período para consolidação dos Diários de Classe online referentes ao 1º semestre letivo de 2017. Encerramento das turmas no Portal do Professor.",
+            "data": "10/07/2017 a 22/07/2017 segunda a sábado-feira"
+        },
+        {
+            "alvo": "Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Data limite para a PRPGP informar ao DERCA os nomes dos candidatos classificados nos cursos de pós-graduação da UFSM, para ingresso no 2º semestre letivo de 2017, após recursos.",
+            "data": "11/07/2017 terça-feira"
+        },
+        {
+            "data": "11/07/2017 terça-feira",
+            "alvo": "Comunidade Acadêmica",
+            "descricao": "ADAPTAÇÃO ACADÊMICA: Dia da semana considerado como SEXTA-FEIRA para fins acadêmicos."
+        },
+        {
+            "alvo": "Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Período para solicitação de confirmação de vaga via web e entrega no DERCA ou postagem dos documentos necessários à confirmação de vaga dos candidatos classificados em cursos de pós-graduação, para ingresso no 2º semestre letivo de 2017, conforme orientações do edital de seleção.",
+            "data": "12/07/2017 a 14/07/2017 quarta a sexta-feira"
+        },
+        {
+            "data": "13/07/2017 quinta-feira",
+            "alvo": "Comunidade Acadêmica",
+            "descricao": "ADAPTAÇÃO ACADÊMICA: Dia da semana considerado como SÁBADO para fins acadêmicos."
+        },
+        {
+            "alvo": "Alunos e professores da graduação",
+            "descricao": "ESTÁGIO CURRICULAR: Data limite para as defesas de relatório de estágio curricular, referentes ao 1º semestre letivo de 2017.",
+            "data": "13/07/2017 quinta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação",
+            "descricao": "AULAS - TÉRMINO: Término das aulas e prazo final para segunda avaliação parcial referente ao 1º semestre letivo de 2017.",
+            "data": "13/07/2017 quinta-feira"
+        },
+        {
+            "alvo": "Professores e alunos da graduação e pós-graduação",
+            "descricao": "AVALIAÇÕES FINAIS: Período para avaliações finais referentes ao 1º semestre letivo de 2017 - Período de exames.",
+            "data": "14/07/2017 a 20/07/2017 sexta a quinta-feira"
+        },
+        {
+            "alvo": "24/07/2016 a 26/07/2016 segunda a quarta-feira Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Período para solicitação de matrícula, via Portal do Aluno, dos candidatos classificados em cursos de pós-graduação, para ingresso no 2º semestre letivo de 2017, conforme orientações do edital de seleção.",
+            "data": "22/07/2017 sábado-feira Departamentos didáticos PUBLICAÇÃO DAS NOTAS: Data limite para a publicação do aproveitamento escolar pelos departamentos didáticos, referente ao 1º semestre letivo de 2017."
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação - modalidades presencial e a distância",
+            "descricao": "MATRÍCULA - SOLICITAÇÃO: Período para solicitação de matrícula via Portal do Aluno dos veteranos da graduação presencial, veteranos da pós-graduação presencial e ingressantes e veteranos da modalidade a distância (graduação e pós-graduação) referente ao 2º semestre letivo de 2017.",
+            "data": "24/07/2017 a 31/07/2017 segunda a segunda-feira"
+        },
+        {
+            "descricao": "RESOLUÇÃO REGIME ESPECIAL DE AVALIAÇÃO: Período para os alunos veteranos se inscreverem em disciplinas amparadas pela Resolução do Regime Especial de Avaliação via Portal do Aluno, referentes ao 2º semestre letivo de 2017.",
+            "data": "24/07/2017 a 31/07/2017 quinta e quinta-feira",
+            "alvo": "Alunos da graduação"
+        },
+        {
+            "alvo": "Alunos da graduação, modalidade presencial",
+            "descricao": "TRANCAMENTO TOTAL: Período para solicitação de trancamento total do semestre, via Portal do Aluno ou na secretaria/coordenação do curso, referente ao 2º semestre letivo de 2017, para alunos dos cursos de graduação, modalidade presencial.",
+            "data": "24/07/2017 a 15/09/2017 quinta a sexta-feira"
+        },
+        {
+            "alvo": "Alunos formandos da graduação - modalidades presencial e a distância",
+            "descricao": "FORMATURAS: Período de formaturas referente ao 1º semestre letivo de 2017 para os alunos formandos da graduação, modalidades presencial e a distância. ",
+            "data": "28/07/2017 a 28/10/2017 terça a sábado"
+        },
+        {
+            "alvo": "Alunos do Ensino Básico, Médio e Tecnológico - modalidade presencial; alunos da graduação e pósgraduação da UFSM - modalidade presencial",
+            "descricao": "BENEFÍCIO SOCIOECONÔMICO: Período para solicitação do benefício socioeconômico, referente ao 2º semestre de 2017, conforme orientações do edital.",
+            "data": "31/07/2017 a 30/08/2017 segunda a sexta-feira"
+        },
+        {
+            "alvo": "SAI - Estudantes Estrangeiros",
+            "descricao": "SEMANA DE ACOLHIMENTO ALUNOS ESTRANGEIROS: Data prevista para realização da Semana de Acolhimento de estudantes estrangeiros ingressantes na UFSM, promovida pela Secretaria de Assuntos Internacionais.",
+            "data": "31/07/2017 a 04/08/2017 segunda a sexta-feira"
+        }
+    ],
+    "NOVEMBRO": [
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Dia de Finados, feriado nacional.",
+            "data": "02/11/2017 quinta-feira"
+        },
+        {
+            "alvo": "Comunidade acadêmica de todos os campi - Dia não letivo e suspensão de atividades acadêmicas",
+            "descricao": "DIA NÃO LETIVO E SUSPENSÃO DE ATIVIDADES ADMINISTRATIVAS: Dia não letivo e suspensão de atividades administrativas em todos os campi em razão do feriado do Finados.",
+            "data": "03/11/2017 e 04/11/2017 sexta-feira e sábado"
+        },
+        {
+            "alvo": "Coordenações e departamento didáticos de cursos de graduação e pósgraduação - modalidade presencial",
+            "descricao": "OFERTA DE DISCIPLINA - COORDENAÇÕES E DEPARTAMENTOS: Período para ajuste da oferta de disciplina pelas coordenações e departamentos didáticos de cursos de graduação e pós-graduação, modalidade presencial, referente ao 1º semestre letivo de 2018. 15/11/2015 quarta-feira Comunidade em Geral e Comunidade Acadêmica de todos os campi FERIADO: Dia da Proclamação da República, feriado nacional.",
+            "data": "06/11/2017 a 10/11/2017 segunda a sexta-feira"
+        },
+        {
+            "alvo": "Candidatos à Mobilidade Acadêmica para UFSM",
+            "descricao": "MOBILIDADE ACADÊMICA: Data limite para solicitações de Mobilidade Acadêmica, por parte de estudantes de outras IES para início de atividades no 1º semestre letivo de 2018. Os alunos da UFSM interessados em mobilidade devem observar o calendário da IES de seu interesse.",
+            "data": "22/11/2017 quarta-feira"
+        },
+        {
+            "alvo": "Coordenações de curso de graduação",
+            "descricao": "DISPENSA DE DISCIPLINA: Data limite para chegada ao DERCA dos pedidos de dispensa de disciplina enviados pelas coordenações de curso, os quais, se aprovados, serão lançados nos históricos escolares como referentes ao 2º semestre letivo de 2017. ",
+            "data": "23/11/2017 quinta-feira"
+        },
+        {
+            "alvo": "Coordenações de curso de graduação",
+            "descricao": "PRÉ-REQUISITO: Data limite para chegada ao DERCA dos pedidos de alteração de pré-requisito, enviados pelas coordenações de curso para incidência nas solicitações de matrícula referentes ao 1º semestre letivo de 2018.",
+            "data": "24/11/2017 sexta-feira"
+        }
+    ],
+    "MAIO": [
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Dia do Trabalhador, feriado nacional.",
+            "data": "01/05/2017 segunda-feira"
+        },
+        {
+            "alvo": "SAI - Coordenações de Cursos de Graduação",
+            "descricao": "SELEÇÃO DE CANDIDATOS: Publicação do edital de seleção de candidatos estrangeiros, oriundos de universidades conveniadas com a UFSM e de convênios multilaterais pela SAI, com seleção realizada pelos cursos de graduação para o segundo semestre letivo de 2017. ",
+            "data": "02/05/2017 terça-feira"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica do campus Palmeira das Missões",
+            "descricao": "FERIADO: Emancipação da cidade de Palmeira das Missões, feriado municipal em Palmeira das Missões.",
+            "data": "06/05/2017 sábado"
+        },
+        {
+            "alvo": "Professores e alunos da graduação e pós-graduação",
+            "descricao": "AULAS: Data referência considerada como metade do 1º semestre letivo de 2017 (25 dias letivos) para fins de avaliação docente.",
+            "data": "09/05/2017 terça-feira"
+        },
+        {
+            "alvo": "Candidatos à Pós-Graduação Presencial",
+            "descricao": "PUBLICAÇÃO DE EDITAL: Publicação do Edital de Seleção para a Pós-Graduação presencial para ingresso no 2º semestre de 2017.",
+            "data": "12/05/2017 sexta-feira"
+        },
+        {
+            "alvo": "Candidatos à seleção de Ingresso/Reingresso na graduação",
+            "descricao": "INGRESSO/REINGRESSO: Data prevista para a publicação pelo DERCA do edital de seleção de ingresso e reingresso (transferência interna e externa, reingresso e portadores de diploma), para início de atividades no 2º semestre letivo de 2017.",
+            "data": "12/05/2017 sexta-feira"
+        },
+        {
+            "alvo": "Candidatos aos cursos de pós-graduação",
+            "descricao": "SELEÇÃO PÓS-GRADUAÇÃO: Período para inscrições via web (site: http://site.ufsm.br/editais/prpgp) no processo seletivo para ingresso em cursos de Pós-Graduação, com início de atividades acadêmicas no 2º semestre letivo de 2017.",
+            "data": "15/05/2017 a 31/05/2017 segunda a quarta-feira"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica do campus de Santa Maria",
+            "descricao": "FERIADO: Aniversário da cidade de Santa Maria, feriado municipal em Santa Maria.",
+            "data": "17/05/2017 quarta-feira"
+        },
+        {
+            "alvo": "Coordenações de cursos de graduação - modalidades presencial e a distância.",
+            "descricao": "FORMATURAS: Para o 1º semestre letivo de 2017, trata-se de data limite para as coordenações de curso de graduação enviarem ao DERCA: 1) formulários com a data da formatura solene e gabinete; 2) formulário com a lista dos nomes de todos os prováveis formandos do semestre; e 3) cópias dos documentos pessoais dos prováveis formandos. Os formulários específicos, que dispensam o envio de memorando, estão disponíveis na página do DERCA.",
+            "data": "19/05/2017 sexta-feira"
+        },
+        {
+            "data": "29/05/2017 segunda-feira",
+            "alvo": "Departamentos didáticos",
+            "descricao": "ENCARGOS DIDÁTICOS: Data limite para atualização dos encargos didáticos referentes ao 1º semestre letivo de 2017."
+        },
+        {
+            "alvo": "SAI - Estudantes Estrangeiros",
+            "descricao": "DIVULGAÇÃO DE RESULTADO: Divulgação do resultado da seleção de estudantes estrangeiros oriundos de universidades conveniadas com a UFSM e de convênios multilaterais pela SAI para o 2º semestre de 2017. ",
+            "data": "30/05/2017 terça-feira"
+        },
+        {
+            "alvo": "Candidatos à Mobilidade Acadêmica para a UFSM",
+            "descricao": "MOBILIDADE ACADÊMICA: Data limite para solicitações de Mobilidade Acadêmica, por parte de estudantes de outras IES para início de atividades na UFSM no 2º semestre letivo de 2017. Os alunos da UFSM interessados em mobilidade devem observar o calendário da IES de seu interesse.",
+            "data": "31/05/2017 quarta-feira"
+        }
+    ],
+    "MARÇO": [
+        {
+            "alvo": "Comunidade Acadêmica de todos os campi - suspensão de atividades administrativas",
+            "descricao": "SUSPENSÃO DE ATIVIDADES ADMINISTRATIVAS: Quarta-feira de Cinzas, suspensão de atividades administrativas em todos os campi até às 14h.",
+            "data": "01/03/2017 quarta-feira"
+        },
+        {
+            "alvo": "SAI - Estudantes Estrangeiros",
+            "descricao": "SEMANA DE ACOLHIMENTO: Data prevista para realização da Semana de Acolhimento de estudantes estrangeiros ingressantes na UFSM promovida pela Secretaria de Assuntos Internacionais.",
+            "data": "01/03/2017 a 04/03/2017 quarta-feira a sábado"
+        },
+        {
+            "alvo": "Coordenação dos Cursos EaD",
+            "descricao": "MOODLE: Data prevista para a exportação dos dados do SIE e disciplinas dos cursos a distância para o Moodle. ",
+            "data": "01/03/2017 e 02/03/2017 quarta e quinta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação na modalidade presencial e a distância",
+            "descricao": "MATRÍCULA - AJUSTE WEB: Período para ajuste de matrícula dos alunos de graduação e pósgraduação modalidades presencial e a distância, no Portal do Aluno, referente ao 1º semestre letivo de 2017.",
+            "data": "01/03/2017 e 02/03/2017 quarta a quinta-feira"
+        },
+        {
+            "alvo": "Coordenações de Cursos de Pós-Graduação e Classificados na PósGraduação ",
+            "descricao": "SELEÇÃO DE BOLSISTAS: Período destinado às Coordenações de Cursos de Pós-Graduação e Classificados na Pós-Graduação para concluírem a seleção de bolsistas de pós-graduação e encaminharem à Pró-Reitoria de Pós-Graduação e Pesquisa (PRPGP).",
+            "data": "01/03/2017 a 03/03/2017 quarta a sexta-feira"
+        },
+        {
+            "alvo": "SAI - Estudantes Estrangeiros",
+            "descricao": "ESTRANGEIROS - INSCRIÇÃO: Período de inscrição de alunos estrangeiros oriundos de universidades conveniadas com a UFSM e de convênios multilaterais para o 2º semestre letivo de 2017.",
+            "data": "01/03/2017 a 29/04/2017 quarta-feira a sábado"
+        },
+        {
+            "alvo": "Alunos do Ensino Básico, Médio e Tecnológico - modalidade presencial; alunos da graduação e pósgraduação da UFSM - modalidade presencial",
+            "descricao": "BENEFÍCIO SOCIOECONÔMICO: Período para solicitação do benefício socioeconômico, referente ao 1º semestre de 2017, conforme orientações do edital.",
+            "data": "01/03/2017 a 31/03/2017 Segunda a sexta-feira"
+        },
+        {
+            "alvo": "DERCA - Alunos da graduação e pós-graduação - modalidades presencial e a distância",
+            "descricao": "MATRÍCULA - PROCESSAMENTO: Data prevista para o segundo processamento no sistema SIE da UFSM das solicitações de matrícula dos alunos da graduação e pós-graduação, referentes ao 1º semestre letivo de 2017.",
+            "data": "03/03/2017 sexta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação",
+            "descricao": "AULAS - INÍCIO: Início das aulas do 1º semestre letivo de 2017 para todos os cursos de graduação e pós-graduação, nas modalidades presencial e a distância. ",
+            "data": "06/03/2017 segunda-feira"
+        },
+        {
+            "alvo": "Alunos do Ensino Básico, Médio e Tecnológico - modalidade presencial; alunos da graduação da",
+            "descricao": "UFSM - modalidade presencial AUXÍLIO TRANSPORTE: Data de abertura do edital para solicitação do Auxílio Transporte, para o 1º semestre letivo de 2017, na Pró-Reitoria de Assuntos Estudantis.",
+            "data": "06/03/2017 segunda-feira"
+        },
+        {
+            "alvo": "Alunos de cursos de graduação, modalidade presencial, com Benefício Socioeconômico ativo",
+            "descricao": "AUXÍLIO MATERIAL PEDAGÓGICO: Data de abertura do edital para solicitação do auxílio para aquisição de material pedagógico, para o 1º semestre de 2017, na Pró-Reitoria de Assuntos Estudantis.",
+            "data": "06/03/2017 segunda-feira"
+        },
+        {
+            "alvo": "Aluno Especial II (candidatos a partir de 55 anos) - graduação",
+            "descricao": "ALUNO ESPECIAL II: Período para inscrição à categoria de Aluno Especial II, nas coordenações de cursos de graduação, referente ao 1º semestre letivo de 2017.",
+            "data": "06/03/2017 e 07/03/2017 segunda e terça-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação",
+            "descricao": "MATRÍCULA - AJUSTE PRESENCIAL: Período para ajuste de matrícula dos alunos de graduação e pós-graduação, nas coordenações e/ou secretarias de curso, referente ao 1º semestre letivo de 2017.",
+            "data": "06/03/2017 a 10/03/2017 segunda a sexta-feira"
+        },
+        {
+            "alvo": "Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Período para matrícula presencial dos candidatos classificados em cursos de pós-graduação, para ingresso no 1º semestre letivo de 2017, convocados por edital de chamada de suplentes.",
+            "data": "06/03/2017 a 10/03/2017 segunda a sexta-feira"
+        },
+        {
+            "alvo": "Prováveis formandos da graduação, alunos de pósgraduação e servidores da",
+            "descricao": "UFSM TESTE DE SUFICIÊNCIA: Período para inscrição no Teste de Suficiência em Língua Estrangeira - TESLE, via web, para o 1º semestre letivo de 2017.",
+            "data": "06/03/2017 a 31/03/2017 segunda a sexta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação",
+            "descricao": "MATRÍCULA EXTRACURRICULAR: Período para o aluno requerer na coordenação do seu curso autorização por meio de formulário para solicitar matrícula em disciplina ofertada por outro curso e encaminhar tal solicitação à coordenação do curso desejado, referente ao 1º semestre letivo de 2017. ",
+            "data": "10/03/2017 e 13/03/2017 sexta e segunda-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação",
+            "descricao": "MATRÍCULA EXTRACURRICULAR: Período para as Coordenações de Curso lançarem no SIE os pedidos aprovados de matrícula extracurricular de alunos de outros cursos, referente ao 1º semestre letivo de 2017.",
+            "data": "10/03/2017 e 13/03/2017 sexta e segunda-feira"
+        },
+        {
+            "alvo": "Aluno Especial I - graduação e pós-graduação",
+            "descricao": "ALUNO ESPECIAL I: Período para matrícula na categoria de Aluno Especial I - Graduação e PósGraduação, referente ao 1º semestre letivo de 2017, no DERCA.",
+            "data": "14/03/2017 e 15/03/2017 terça e quarta-feira"
+        },
+        {
+            "alvo": "Aluno Especial II (candidatos a partir de 55 anos) - graduação",
+            "descricao": "ALUNO ESPECIAL II: Período para matrícula na categoria de Aluno Especial II, referente ao 1º semestre letivo de 2017, no DERCA.",
+            "data": "16/03/2017 e 17/03/2017 quinta e sexta-feira"
+        }
+    ],
+    "JUNHO": [
+        {
+            "alvo": "Coordenações de cursos de graduação e pós-graduação - modalidade presencial",
+            "descricao": "OFERTA DE DISCIPLINA: Período para as coordenações de cursos de graduação e pós-graduação, modalidade presencial, solicitarem oferta de disciplina regular e por Resolução do Regime Especial de Avaliação aos respectivos departamentos didáticos, através do SIE, para o 2º semestre letivo de 2017.",
+            "data": "01/06/2017 a 09/06/2017 quinta a sexta-feira"
+        },
+        {
+            "alvo": "Prováveis formandos da graduação, alunos de pósgraduação e servidores da",
+            "descricao": "UFSM TESTE DE SUFICIÊNCIA: Dia da aplicação da prova do Teste de Suficiência em Língua Estrangeira - TESLE, para o 1º semestre letivo de 2017.",
+            "data": "09/06/2017 sexta-feira"
+        },
+        {
+            "alvo": "Departamentos didáticos dos cursos de graduação e pósgraduação - modalidade presencial",
+            "descricao": "OFERTA DE DISCIPLINA: Período para os departamentos didáticos da graduação e pós-graduação procederem à conferência, retificação, inclusão de docente e confirmação das solicitações de oferta de disciplina para o 2º semestre letivo de 2017.",
+            "data": "12/06/2017 a 23/06/2017 segunda a sexta-feira"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica dos campi de Frederico Westphalen e Palmeira das Missões",
+            "descricao": "FERIADO: Dia de Santo Antônio, feriado nas cidades de Frederico Westphalen e Palmeira das Missões.",
+            "data": "13/06/2017 terça-feira"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica dos campi de Frederico Westphalen e Palmeira das Missões",
+            "descricao": "DIA NÃO LETIVO E SUSPENSÃO DAS ATIVIDADES ADMINISTRATIVAS: Dia não letivo e suspensão de atividades administrativas em Frederico Westphalen e Palmeira das Missões. ",
+            "data": "14/06/2017 quarta-feira"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Feriado Nacional. Corpus Christi.",
+            "data": "15/06/2017 quinta-feira"
+        },
+        {
+            "alvo": "Comunidade acadêmica de todos os campi - Dia não letivo e suspensão de atividades administrativas",
+            "descricao": "DIA NÃO LETIVO E SUSPENSÃO DAS ATIVIDADES ADMINISTRATIVAS: Dia não letivo e suspensão de atividades administrativas em razão de Corpus Christi/Feriado.",
+            "data": "16/06/2017 e 17/06/2017 sexta-feira e Sábado"
+        },
+        {
+            "alvo": "Coordenações de curso de graduação",
+            "descricao": "DISPENSA DE DISCIPLINA: Data limite para chegada ao DERCA dos pedidos de dispensa de disciplina enviados pelas coordenações de curso, os quais, se aprovados, serão lançados nos históricos escolares como referentes ao 1º semestre letivo de 2017.",
+            "data": "23/06/2017 sexta-feira"
+        },
+        {
+            "alvo": "Coordenações de curso de graduação",
+            "descricao": "PRÉ-REQUISITO: Data limite para chegada ao DERCA dos pedidos de alteração de pré-requisito, enviados pelas coordenações de curso para incidência nas solicitações de matrícula referentes ao 2º semestre letivo de 2017.",
+            "data": "23/06/2017 sexta-feira"
+        },
+        {
+            "alvo": "Aluno Especial I - graduação e pós-graduação",
+            "descricao": "ALUNO ESPECIAL I: Data prevista para a publicação do edital de seleção de candidatos à Aluno Especial I de Graduação e Pós-Graduação, referente ao 2º semestre letivo de 2017.",
+            "data": "26/06/2017 segunda-feira"
+        },
+        {
+            "data": "23/06/2017 a 27/06/2017 sexta a terça-feira",
+            "alvo": "Alunos do Curso de Medicina",
+            "descricao": "MATRÍCULA - INTERNATO: Período para os alunos do Curso de Medicina solicitarem via Portal do Aluno matrícula em Internato Curricular obrigatório, referente ao 2º semestre letivo de 2017."
+        },
+        {
+            "alvo": "DERCA - Alunos do Curso de Medicina",
+            "descricao": "PROCESSAMENTO MATRÍCULA INTERNATO: Data prevista para o 1º processamento de matrícula em Internato Curricular obrigatório do Curso de Medicina, referente ao 2º semestre letivo de 2017.",
+            "data": "28/06/2017 quarta-feira"
+        },
+        {
+            "descricao": "MATRÍCULA AJUSTE INTERNATO: Ajuste via Portal do Aluno dos pedidos de matrícula dos alunos do Curso de Medicina em Internato Curricular obrigatório, referente ao 1º semestre letivo de 2017.",
+            "data": "29/06/2017 quinta-feira",
+            "alvo": "Alunos do Curso de Medicina"
+        },
+        {
+            "alvo": "DERCA - Alunos do Curso de Medicina",
+            "descricao": "PROCESSAMENTO MATRÍCULA INTERNATO: Data prevista para o 2º processamento de matrícula em Internato Curricular obrigatório do Curso de Medicina, referente ao 2º semestre letivo de 2017. ",
+            "data": "30/06/2017 sexta-feira"
+        },
+        {
+            "alvo": "Coordenações e departamentos de cursos de graduação e pós-graduação - modalidade presencial",
+            "descricao": "OFERTA DE DISCIPLINA: Período para ajuste da oferta de disciplina pelas coordenações e departamentos didáticos de cursos de graduação e pós-graduação, modalidade presencial, referente ao 2º semestre letivo de 2017.",
+            "data": "27/06/2017 a 30/06/2017 terça a sexta-feira"
+        },
+        {
+            "alvo": "Coordenações de cursos de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Data limite para as coordenações de cursos de pós-graduação enviarem à Pró-Reitoria de Pós-Graduação e Pesquisa - PRPGP a lista com os nomes dos candidatos classificados nos cursos de Pós-Graduação da UFSM para ingresso no 2º semestre letivo de 2017.",
+            "data": "30/06/2017 sexta-feira"
+        }
+    ],
+    "AGOSTO": [
+        {
+            "alvo": "Coordenações de cursos de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Data limite para entrada no DERCA da lista com os nomes dos candidatos suplentes na seleção de pós-graduação, enviada pela coordenação de cada curso de pós-graduação, com vistas à 2ª chamada de candidatos para ingresso no 2º semestre letivo de 2017.",
+            "data": "01/08/2017 terça-feira"
+        },
+        {
+            "alvo": "SAI - Estudantes Estrangeiros",
+            "descricao": "PERÍODO DE INSCRIÇÃO PARA ESTRANGEIROS: Período de inscrições de alunos estrangeiros oriundos de universidades conveniadas com a UFSM e de convênios multilaterais para o 1º semestre letivo de 2018,via web.",
+            "data": "01/08/2017 a 29/09/2017 terça a sexta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação - modalidades presencial e a distância",
+            "descricao": "MATRÍCULA - PROCESSAMENTO: Data prevista para o primeiro processamento no sistema SIE da UFSM das solicitações de matrícula dos alunos da graduação e pós-graduação, referente ao 2º semestre letivo de 2017. É responsabilidade dos alunos conferir no Portal do Aluno se as solicitações foram aceitas pelo sistema.  02/08/2017 quarta-feira DERCA - Suplentes para cursos de pós-graduação CLASSIFICADOS PÓS-GRADUAÇÃO: Publicação, pelo DERCA, de edital de suplentes da PósGraduação para ingresso no 2º semestre de 2017.",
+            "data": "01/08/2017 terça-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação na modalidade presencial e a distância",
+            "descricao": "MATRÍCULA - AJUSTE WEB: Período para ajuste de matrícula dos alunos de graduação e pósgraduação modalidades presencial e a distância, no Portal do Aluno, referente ao 2º semestre letivo de 2017.",
+            "data": "02/08/2017 e 03/08/2017 quarta e quinta-feira"
+        },
+        {
+            "alvo": "Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Período para solicitação de confirmação de vaga e entrega no DERCA dos documentos necessários dos candidatos suplentes classificados para ingresso no 2º semestre letivo de 2017 e convocados através de edital de chamada de suplentes.",
+            "data": "02/08/2017 e 03/08/2017 quarta e quinta-feira"
+        },
+        {
+            "alvo": "Núcleo de Tecnologia Educacional - NTE",
+            "descricao": "MOODLE: Período para exportação das matrículas do SIE para o Moodle, referente ao 2º semestre letivo de 2017.",
+            "data": "03/08/2017 a 04/08/2017 quinta e sexta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação - modalidades presencial e a distância",
+            "descricao": "MATRÍCULA - PROCESSAMENTO: Data prevista para o segundo processamento no sistema SIE da UFSM das solicitações de matrícula dos alunos da graduação e pós-graduação, referente ao 2º semestre letivo de 2017. É responsabilidade dos alunos conferir no Portal do Aluno se as solicitações foram aceitas pelo sistema.",
+            "data": "04/08/2017 sexta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação",
+            "descricao": "AULAS - INICIO: Início das aulas do 2º semestre letivo de 2017 para todos os cursos de graduação e pós-graduação, nas modalidades presencial e a distância.",
+            "data": "07/08/2017 segunda-feira"
+        },
+        {
+            "alvo": "Alunos do Ensino Básico, Médio e Tecnológico - modalidade presencial; alunos da graduação e pósgraduação da UFSM - modalidade presencial",
+            "descricao": "AUXÍLIO TRANSPORTE: Data de abertura do edital para solicitação do Auxílio Transporte, para o 2º semestre letivo de 2017, na Pró-Reitoria de Assuntos Estudantis.",
+            "data": "07/08/2017 segunda-feira"
+        },
+        {
+            "alvo": "Alunos de Cursos de Graduação - modalidade presencial, com Benefício Socioeconômico ativo",
+            "descricao": "AUXÍLIO MATERIAL PEDAGÓGICO: Data de abertura do edital para solicitação do Auxílio para aquisição de Material Pedagógico, para o 2º semestre de 2017, na Pró-Reitoria de Assuntos Estudantis.",
+            "data": "07/08/2017 segunda-feira"
+        },
+        {
+            "alvo": "Aluno Especial II (candidatos a partir de 55 anos) - graduação",
+            "descricao": "ALUNO ESPECIAL II: Período para inscrição à categoria de Aluno Especial II, nas coordenações de cursos de graduação, referente ao 2º semestre letivo de 2017. ",
+            "data": "07/08/2017 e 08/08/2017 segunda e terça-feira"
+        },
+        {
+            "alvo": "Coordenações de Cursos de Pós-Graduação e Classificados na PósGraduação ",
+            "descricao": "SELEÇÃO DE BOLSISTAS: Período destinado às Coordenações de Cursos de Pós-Graduação e Classificados na Pós-Graduação para concluírem a seleção de bolsistas de pós-graduação e encaminharem à Pró-Reitoria de Pós-Graduação e Pesquisa - PRPGP.",
+            "data": "07/08/2017 a 10/08/2017 segunda a quinta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação",
+            "descricao": "AJUSTE DE MATRÍCULA: Período para ajuste de matrícula dos alunos de graduação e pós- graduação, nas coordenações e/ou secretarias de curso, referente ao 2º semestre letivo de 2017.",
+            "data": "07/08/2017 a 11/08/2017 segunda a sexta-feira"
+        },
+        {
+            "data": "07/08/2017 a 11/08/2017",
+            "alvo": "Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Período para matrícula presencial dos candidatos classificados em cursos de pós-graduação, para ingresso no 2º semestre letivo de 2017, convocados por edital de chamada de suplentes. "
+        },
+        {
+            "alvo": "Prováveis formandos da graduação, alunos de pósgraduação e servidores da",
+            "descricao": "UFSM TESTE DE SUFICIÊNCIA: Período para inscrição no Teste de Suficiência em Língua Estrangeira - TESLE, via web, para o 2º semestre letivo de 2017.",
+            "data": "07/08/2017 a 31/08/2017 segunda a quinta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação",
+            "descricao": "MATRÍCULA EXTRACURRICULAR: Período para o aluno requerer na coordenação do seu curso autorização por meio de formulário para solicitar matrícula em disciplina ofertada por outro curso e encaminhar tal solicitação à coordenação do curso desejado, referente ao 2º semestre letivo de 2017.",
+            "data": "11/08/2017 e 14/08/2017 sexta e segunda-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação",
+            "descricao": "MATRÍCULA EXTRACURRICULAR: Período para as Coordenações de Curso lançarem no SIE os pedidos aprovados de matrícula extracurricular de alunos de outros cursos, referente ao 2º semestre letivo de 2017.",
+            "data": "11/08/2017 e 14/08/2017 sexta e segunda-feira"
+        },
+        {
+            "alvo": "Aluno Especial I - graduação e pós-graduação",
+            "descricao": "ALUNO ESPECIAL I: Período para matrícula na categoria de Aluno Especial I - Graduação e PósGraduação, referente ao 2º semestre letivo de 2017, no DERCA.",
+            "data": "15/08/2017 e 16/08/2017 terça e quarta-feira"
+        },
+        {
+            "alvo": "Aluno Especial II (candidatos a partir de 55 anos) - graduação",
+            "descricao": "ALUNO ESPECIAL II: Período para matrícula na categoria de Aluno Especial II, referente ao 2º semestre letivo de 2017, no DERCA. ",
+            "data": "17/08/2017 e 18/08/2017 quinta e sexta-feira"
+        }
+    ],
+    "FEVEREIRO": [
+        {
+            "alvo": "Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Período para solicitação de confirmação de vaga via web e entrega no DERCA ou postagem dos documentos necessários à confirmação de vaga dos candidatos classificados em cursos de pós-graduação, para ingresso no 1º semestre letivo de 2017.",
+            "data": "01/02/2017 a 03/02/2017 quarta a sexta-feira"
+        },
+        {
+            "alvo": "Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Período para solicitação de matrícula via web dos candidatos classificados em cursos de pós-graduação, para ingresso no 1º semestre letivo de 2017.",
+            "data": "13/02/2017 a 14/02/2017 segunda e terça-feira"
+        },
+        {
+            "alvo": "Alunos da graduação e pósgraduação - modalidades presencial e a distância",
+            "descricao": "MATRÍCULA - SOLICITAÇÃO: Período para solicitação de matrícula via Portal do Aluno dos veteranos da graduação e ingressantes e veteranos da pós-graduação, referente ao 1º semestre letivo de 2017.",
+            "data": "16/02/2017 a 23/02/2017 quinta a quinta-feira"
+        },
+        {
+            "descricao": "RESOLUÇÃO REGIME ESPECIAL DE AVALIAÇÃO: Período para os alunos veteranos se inscreverem em disciplinas amparadas pela Resolução do Regime Especial de Avaliação via Portal do Aluno, referentes ao 1º semestre letivo de 2017.",
+            "data": "16/02/2017 a 23/02/2017 quinta a quinta-feira",
+            "alvo": "Alunos da graduação"
+        },
+        {
+            "alvo": "Alunos da graduação - modalidade presencial",
+            "descricao": "TRANCAMENTO TOTAL: Período para solicitação de trancamento total do semestre ou parcial (disciplinas), via Portal do Aluno ou na secretaria/coordenação do curso, referente ao 1º semestre letivo de 2017, para alunos dos cursos de graduação, modalidade presencial.",
+            "data": "16/02/2017 a 07/04/2017 quinta a sexta-feira"
+        },
+        {
+            "alvo": "Coordenações de cursos de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Data limite para entrada no DERCA da lista com os nomes dos candidatos suplentes na seleção de pós-graduação, enviada pela coordenação de cada curso de pós-graduação, com vistas à 2ª chamada de candidatos para ingresso no 1º semestre letivo de 2017.",
+            "data": "20/02/2017 segunda-feira"
+        },
+        {
+            "alvo": "DERCA - Suplentes para cursos de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Publicação, pelo DERCA, de edital de suplentes da PósGraduação para ingresso no 1º semestre de 2017. ",
+            "data": "22/02/2017 quarta-feira"
+        },
+        {
+            "alvo": "Candidatos suplentes classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Período para solicitação de confirmação de vaga e entrega no DERCA ou postagem dos documentos necessários à confirmação de vaga dos candidatos suplentes classificados em cursos de pós-graduação, para ingresso no 1º semestre letivo de 2017.",
+            "data": "23/02/2017 e 24/02/2017 quinta a sexta-feira"
+        },
+        {
+            "alvo": "DERCA - Alunos da graduação e pós-graduação - modalidades presencial e a distância",
+            "descricao": "MATRÍCULA - PROCESSAMENTO: Data prevista para o primeiro processamento no sistema SIE da UFSM das solicitações de matrícula dos alunos da graduação e pós-graduação, referentes ao 1º semestre letivo de 2017. É responsabilidade dos alunos conferir no Portal do Aluno se as solicitações foram aceitas pelo sistema.",
+            "data": "24/02/2017 sexta-feira"
+        },
+        {
+            "data": "24/02/2017 sexta-feira",
+            "alvo": "PROGRAD/SAI",
+            "descricao": "EDITAL PROMISAES: Data prevista para abertura do edital PROMISAES para concessão de bolsas para alunos estrangeiros, referente ao 2º semestre letivo de 2017."
+        },
+        {
+            "alvo": "Comunidade Acadêmica de Todos os Campi - Dia não letivo e suspensão de atividades administrativas",
+            "descricao": "DIA NÃO LETIVO E SUSPENSÃO DAS ATIVIDADES ADMINISTRATIVAS: Dia não letivo e suspensão de atividades administrativas em razão do Carnaval e do aniversário da cidade de Frederico Westphalen.",
+            "data": "27/02/2017 segunda-feira"
+        },
+        {
+            "alvo": "Comunidade Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Carnaval, feriado nacional e aniversário da cidade de Frederico Westphalen, feriado municipal em Frederico Westphalen.",
+            "data": "28/02/2017 terça-feira"
+        }
+    ],
+    "SETEMBRO": [
+        {
+            "alvo": "Coordenações de curso de graduação",
+            "descricao": "REFORMULAÇÃO CURRICULAR e PROPOSTA DE NOVOS CURSOS: Data limite para aprovação/alteração (CEPE/CONSU) de projetos de reformulação curricular e de cursos novos para que possam ser ofertadas vagas no SiSU 2018/01.",
+            "data": "05/09/2017 sexta-feira"
+        },
+        {
+            "alvo": "Coordenações de cursos de pós-graduação",
+            "descricao": "SELEÇÃO PÓS-GRADUAÇÃO: Data limite para as coordenações de cursos de pós-graduação enviarem à PRPGP os dados pertinentes à elaboração do edital de seleção para ingresso em cursos de pós-graduação no 1º semestre letivo de 2018.",
+            "data": "06/09/2017 quarta-feira"
+        },
+        {
+            "alvo": "Coordenações de curso de graduação - modalidades presencial e a distância",
+            "descricao": "CADASTRO DE DCG: Data limite para as coordenações de curso enviarem ao DERCA os pedidos de criação de Disciplinas Complementares de Graduação - DCG, para serem inseridas no currículo dos cursos e ofertadas no 1º semestre letivo de 2018.",
+            "data": "06/09/2017 quarta-feira"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Independência da República, feriado nacional.",
+            "data": "07/09/2017 quinta-feira"
+        },
+        {
+            "alvo": "Comunidade acadêmica de todos os campi - Dia não letivo e suspensão de atividades administrativas",
+            "descricao": "DIA NÃO LETIVO E SUSPENSÃO DAS ATIVIDADES ADMINISTRATIVAS: Dia não letivo e suspensão de atividades administrativas em razão do feriado de Independência da República.",
+            "data": "08/09/2017 e 09/09/2017 sexta-feira e sábado"
+        },
+        {
+            "data": "14/09/2017 a 16/09/2017 quinta-feira a sábado",
+            "alvo": "Alunos da graduação",
+            "descricao": "DESCUBRA UFSM: Realização da 4ª edição do Descubra UFSM."
+        },
+        {
+            "alvo": "Alunos, coordenadores e secretários de cursos de graduação e pós-graduação, da modalidade presencial",
+            "descricao": "TRANCAMENTO TOTAL OU PARCIAL: Último dia para solicitação de trancamento total do semestre ou parcial (disciplinas), via Portal do Aluno ou na secretaria/coordenação do curso, referente ao 2º semestre letivo de 2017, para alunos dos cursos de graduação, modalidade presencial. ",
+            "data": "15/09/2017 sexta-feira"
+        },
+        {
+            "alvo": "Coordenações de cursos de graduação e pós-graduação - modalidade a distância",
+            "descricao": "OFERTA DE DISCIPLINA: Período para as coordenações de cursos EaD/UAB - graduação e pósgraduação solicitarem oferta de disciplinas no SIE, para o 1º semestre letivo de 2018 e enviarem memorando ao DERCA e Secretaria Acadêmica do NTE com nome e código da disciplina; turma, e nome e SIAPE do docente.",
+            "data": "18/09/2017 a 22/09/2017 segunda a sexta-feira"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Revolução Farroupilha, feriado estadual.",
+            "data": "20/09/2017 quarta-feira"
+        },
+        {
+            "alvo": "Candidatos à seleção de Ingresso/Reingresso",
+            "descricao": "INGRESSO/REINGRESSO: Data prevista para a publicação pelo DERCA do edital de seleção de ingresso e reingresso (transferência interna e externa, reingresso e portadores de diploma), para início de atividades acadêmicas no 1º semestre letivo de 2018.",
+            "data": "29/09/2017 sexta-feira"
+        },
+        {
+            "alvo": "Candidatos à Pós-Graduação Presencial",
+            "descricao": "PUBLICAÇÃO DE EDITAL: Publicação do edital de seleção para a Pós-Graduação presencial para ingresso no 1º semestre de 2018.",
+            "data": "29/09/2017 sexta-feira"
+        }
+    ],
+    "ABRIL": [
+        {
+            "alvo": "Coordenações de cursos de graduação e pós-graduação - modalidade a distância",
+            "descricao": "OFERTA DE DISCIPLINA: Período para as coordenações de cursos EaD/UAB - graduação e pósgraduação solicitarem oferta de disciplinas no SIE, para o 2º semestre letivo de 2017 e enviarem memorando ao DERCA e Secretaria Acadêmica do NTE com nome e código da disciplina; turma, e nome e SIAPE do docente.",
+            "data": "03/04/2017 a 07/04/2017 segunda a sexta-feira"
+        },
+        {
+            "alvo": "Interessados em revalidação de diploma",
+            "descricao": "REVALIDAÇÃO DE DIPLOMA: Período para abertura de processo, no Protocolo Geral da UFSM, de revalidação de diploma de cursos de graduação expedidos por instituições estrangeiras de Ensino Superior.",
+            "data": "03/04/2017 a 07/07/2017 segunda a sexta-feira"
+        },
+        {
+            "alvo": "Coordenações de curso de graduação - modalidades presencial e a distância",
+            "descricao": "CADASTRO DE DCG: Data limite para as coordenações de cursos de graduação enviarem à PROGRAD os pedidos de criação de Disciplinas Complementares de Graduação - DCG, para serem inseridas no currículo dos cursos e ofertadas no 2º semestre letivo de 2017.",
+            "data": "07/04/2017 sexta-feira"
+        },
+        {
+            "alvo": "Coordenações de cursos de pós-graduação",
+            "descricao": "SELEÇÃO PÓS-GRADUAÇÃO: Data limite para as coordenações de cursos de pós-graduação enviarem à PRPGP os dados pertinentes à elaboração do edital de seleção para ingresso em cursos de pós-graduação no 2º semestre letivo de 2017.",
+            "data": "07/04/2017 sexta-feira"
+        },
+        {
+            "alvo": "Alunos da graduação - modalidade presencial",
+            "descricao": "TRANCAMENTO TOTAL OU PARCIAL: Último dia para solicitação de trancamento total do semestre ou parcial (disciplinas), via Portal do Aluno ou na secretaria/coordenação do curso, referente ao 1º semestre letivo de 2017, para alunos dos cursos de graduação, modalidade presencial. ",
+            "data": "07/04/2017 sexta-feira"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Sexta-feira Santa, feriado nacional.",
+            "data": "14/04/2017 sexta-feira"
+        },
+        {
+            "alvo": "Comunidade Acadêmica de Todos os Campi - Dia não letivo e suspensão de atividades administrativas",
+            "descricao": "DIA NÃO LETIVO E SUSPENSÃO DAS ATIVIDADES ADMINISTRATIVAS: Dia não letivo e suspensão de atividades administrativas. 16/04/2016 domingo Comunidade Acadêmica de Todos os Campi - Dia não letivo e suspensão de atividades administrativas FERIADO: Páscoa, feriado nacional.",
+            "data": "15/04/2017 sábado"
+        },
+        {
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Tiradentes, feriado nacional.",
+            "data": "21/04/2017 sexta-feira"
+        },
+        {
+            "alvo": "Comunidade Acadêmica de Todos os Campi - Dia não letivo e suspensão de atividades administrativas",
+            "descricao": "DIA NÃO LETIVO E SUSPENSÃO DAS ATIVIDADES ADMINISTRATIVAS: Dia não letivo e suspensão de atividades administrativas.",
+            "data": "22/04/2017 sábado"
+        }
+    ],
+    "JANEIRO": [
+        {
+            "alvo": "DERCA - Alunos do Curso de Medicina",
+            "descricao": "PROCESSAMENTO MATRÍCULA INTERNATO: Data prevista para o 1º processamento de matrícula em Internato Curricular obrigatório do Curso de Medicina, referente ao 1º semestre letivo de 2018.",
+            "data": "27/01/2017 quarta-feira"
+        },
+        {
+            "descricao": "MATRÍCULA AJUSTE INTERNATO: Ajuste via Portal do Aluno dos pedidos de matrícula dos alunos do Curso de Medicina em Internato Curricular obrigatório, referente ao 1º semestre letivo de 2018.",
+            "data": "28/01/2017 quinta-feira",
+            "alvo": "Alunos do Curso de Medicina"
+        },
+        {
+            "data": "01/01/2017 domingo",
+            "alvo": "Comunidade em Geral e Comunidade Acadêmica de todos os campi",
+            "descricao": "FERIADO: Confraternização Universal, feriado nacional. "
+        },
+        {
+            "data": "02/01/2017 a 04/01/2017 segunda a quarta-feira ",
+            "alvo": "Alunos do Curso de Medicina",
+            "descricao": "MATRÍCULA - INTERNATO: Período para os alunos do Curso de Medicina solicitarem via Portal do Aluno matrícula em Internato Curricular obrigatório, referente ao 1º semestre letivo de 2017. "
+        },
+        {
+            "data": "05/01/2017 quinta-feira",
+            "alvo": "DERCA - Alunos do Curso de Medicina",
+            "descricao": "PROCESSAMENTO MATRÍCULA INTERNATO: Data prevista para o 1º processamento de matrícula em Internato Curricular obrigatório do Curso de Medicina, referente ao 1º semestre letivo de 2017. "
+        },
+        {
+            "data": "06/01/2017 sexta-feira",
+            "alvo": "Alunos do Curso de Medicina",
+            "descricao": "MATRÍCULA AJUSTE INTERNATO: Ajuste via Portal do Aluno dos pedidos de matrícula dos alunos do Curso de Medicina em Internato Curricular obrigatório, referente ao 1º semestre letivo de 2017. "
+        },
+        {
+            "data": "09/01/2017 segunda-feira",
+            "alvo": "DERCA - Alunos do Curso de Medicina",
+            "descricao": "PROCESSAMENTO MATRÍCULA INTERNATO: Data prevista para o 2º processamento de matrícula em Internato Curricular obrigatório do Curso de Medicina, referente ao 1º semestre letivo de 2017. "
+        },
+        {
+            "data": "16/01/2017 segunda-feira",
+            "alvo": "Coordenações de cursos de pós-graduação ",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Data limite para as coordenações de cursos de pós-graduação enviarem à Pró-Reitoria de Pós-Graduação e Pesquisa - PRPGP a lista com os nomes dos candidatos classificados nos cursos de pós-graduação da UFSM, conforme Edital N.º 030/UFSM/PRPGP, para ingresso no 1º semestre letivo de 2017."
+        },
+        {
+            "data": "19/01/2017 quinta-feira",
+            "alvo": "Aluno Especial I - graduação e pós-graduação",
+            "descricao": "ALUNO ESPECIAL I: Data prevista para a publicação do edital de seleção de candidatos à Aluno Especial I de Graduação e Pós-Graduação, referente ao 1º semestre letivo de 2017. "
+        },
+        {
+            "data": "20/01/2017 sexta-feira",
+            "alvo": "Candidatos classificados na seleção de pós-graduação",
+            "descricao": "CLASSIFICADOS PÓS-GRADUAÇÃO: Data limite para a publicação pela PRPGP da lista com os nomes dos candidatos classificados nos cursos de pós-graduação da UFSM, conforme Edital XX/2016 – PRPGP, para ingresso no 1º semestre letivo de 2017. "
+        }
+    ]
+}

@@ -21,5 +21,17 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', webservice.views.index),
     url(r'^cardapio$', webservice.views.cardapio),
-    url(r'^seq$', webservice.views.sequencial)
+    url(r'^sequencial$', webservice.views.sequencial),
+    url(r'^turmas$', webservice.views.turmas),
+    url(r'^turma$', webservice.views.turma),
+    url(r'^sobre$', webservice.views.sobre),
+    url(r'^ultimas_aquisicoes$', webservice.views.ultimas_aquisicoes),
+    url(r'^historico_emprestimo$', webservice.views.historico_emprestimo),
+    url(r'^calendario$', webservice.views.calendario),
+    url(r'^consulta_agendamento$', webservice.views.consulta_agendamento),
+    url(r'^agenda_refeicoes$', webservice.views.agenda_refeicoes),
+    url(r'^notas$', webservice.views.notas),
+    url(r'^horario$', webservice.views.horario),
+    url(r'^matriz_curricular$', webservice.views.matriz_curricular),
+    url(r'^template$', webservice.views.template)
 ]
