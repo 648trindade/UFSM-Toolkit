@@ -28,12 +28,11 @@ def index(request):
     if request.method == 'GET':
         session = requests.Session()
         resultado = utils.login(request, session)
-        if resultado is not None:
-            return resultado
-        funcoes = [turmas, notas, horario, matriz_curricular, historico_emprestimo, consulta_agendamento]
-        processos += [
-            mp.Process(target=funcao, args=(None, session, fila, )) for funcao in funcoes
-        ]
+        if resultado is None:
+            funcoes = [turmas, notas, horario, matriz_curricular, historico_emprestimo, consulta_agendamento]
+            processos += [
+                mp.Process(target=funcao, args=(None, session, fila, )) for funcao in funcoes
+            ]
 
     for processo in processos:
         processo.start()
@@ -61,11 +60,10 @@ def sequencial(request):
     if request.method == 'GET':
         session = requests.Session()
         resultado = utils.login(request, session)
-        if resultado is not None:
-            return resultado
-        funcoes = [turmas, notas, horario, matriz_curricular, historico_emprestimo, consulta_agendamento]
-        for funcao in funcoes:
-            funcao(None, session, fila)
+        if resultado is None:
+            funcoes = [turmas, notas, horario, matriz_curricular, historico_emprestimo, consulta_agendamento]
+            for funcao in funcoes:
+                funcao(None, session, fila)
 
     dic = {}
     while not fila.empty():
