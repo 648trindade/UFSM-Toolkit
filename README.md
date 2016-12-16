@@ -5,6 +5,8 @@
 
 **Versao:** 1.0.0a
 
+**Host**: http://ufsm-toolkit.herokuapp.com/
+
 Este servico representa a implementacao de um servidor Django que realiza 
 operacoes comuns para estudantes e servidores da Universidade Federal de Santa 
 Maria (UFSM). Dentre os recursos disponiveis estao: Consultas ao portal do 
