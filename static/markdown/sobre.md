@@ -112,7 +112,7 @@ Especificar ano e periodo e opcional.
 
 Retorna lista de turmas onde se esta atualmente matriculado. Se acessado 
 diretamente via POST, uma matricula e senha devem ser fornecidos. Especificar 
-ano e periodo e opcional. (OBS: Nao-funcional)
+ano e periodo e opcional.
 
 **Parametros POST:**
 
